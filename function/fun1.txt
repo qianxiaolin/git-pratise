@@ -1,1 +1,2 @@
 这是funq的
+function1进行了一些操作
