@@ -1,2 +1,1 @@
-这是funq的
-function1进行了一些操作
+function2修改了这份文件
